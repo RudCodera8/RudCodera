@@ -1,5 +1,5 @@
 layout: sidebar
-style: light
+style: dark
 
 plugins:
   - jekyll-octicons
@@ -28,31 +28,30 @@ projects:
     projects:
     # - repo-name
 
-# social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
-  # hackerrank: your_username
-  # instagram: your_username
+   hackerrank: abhijithm28
+   instagram: abhijith7_menon
   # keybase: your_username
   # linkedin: your_username
   # mastodon: your_username
   # medium: your_username
   # stackoverflow: your_user_id
   # telegram: your_username
-  # twitter: your_username
+   twitter: AbhijithRajee12
   # unsplash: your_username
   # vk: your_username
-  # website: http://your_website_url
+   website: https://rudcodera8.github.io/#http://your_website_url
   # youtube: your_username
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: My Blog Website
+    web_url: https://rudcodera8.github.io/#
+   # image_url: https://github.com/RudCodera8/personal-website/blob/master/Steve.jpg?raw=true
+#  - name: Web design
 
-  - name: Web design
-
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+#  - name: Sass
+#    web_url: https://github.com/topics/sass
+#    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
